@@ -34,7 +34,8 @@ const wordToImageMap =
   "pdf file": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2024-10/241009-sean-diddy-combs-al-1415-3f180d.jpg",
   "pdf files": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2024-10/241009-sean-diddy-combs-al-1415-3f180d.jpg",
   "did he": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2024-10/241009-sean-diddy-combs-al-1415-3f180d.jpg",
-  "ohayo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ohio_in_United_States.svg/300px-Ohio_in_United_States.svg.png"
+  "ohayo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ohio_in_United_States.svg/300px-Ohio_in_United_States.svg.png",
+  "ohayou": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ohio_in_United_States.svg/300px-Ohio_in_United_States.svg.png"
 };
 
 function highlightWord(element, word, imageUrl) {
