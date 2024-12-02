@@ -7,7 +7,7 @@ const wordToImageMap =
   "kill my": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYG3cKbQqaquVuApePZV-HM5mnNejZDEYEcg&s",
   "will die": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYG3cKbQqaquVuApePZV-HM5mnNejZDEYEcg&s",
   "brick wall": "https://preview.redd.it/4wzew8ysnsm91.png?width=512&format=png&auto=webp&s=2a5e8b79c10d933bf920112fa9f2998cd157051d",
-  "pick role": "https://preview.redd.it/4wzew8ysnsm91.png?width=512&format=png&auto=webp&s=2a5e8b79c10d933bf920112fa9f2998cd157051d",
+  "pick a role": "https://preview.redd.it/4wzew8ysnsm91.png?width=512&format=png&auto=webp&s=2a5e8b79c10d933bf920112fa9f2998cd157051d",
   "vastly": "https://preview.redd.it/4wzew8ysnsm91.png?width=512&format=png&auto=webp&s=2a5e8b79c10d933bf920112fa9f2998cd157051d",
   "lastly": "https://preview.redd.it/4wzew8ysnsm91.png?width=512&format=png&auto=webp&s=2a5e8b79c10d933bf920112fa9f2998cd157051d",
   "pita": "https://i.redd.it/in-the-newest-episode-patrick-literally-does-the-family-guy-v0-zg8f1ijqmptb1.png?width=928&format=png&auto=webp&s=63f2bc0ab545c659d2da9a9d33d7f8c0b553d1f8",
